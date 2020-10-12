@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Hubble Image](https://cdn.spacetelescope.org/archives/images/wallpaper2/heic2007a.jpg)
