@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. This is a list :smile:
+2. With Some  numbers
+3. It's pretty cool
